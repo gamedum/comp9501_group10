@@ -1,0 +1,17 @@
+.venv/
+data/
+outputs/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.tmp
+*.part
+*.lock
+*.log
+*.progress.json
+*.pt
+*.zip
+*.ppt
+*.pptx
+*.pdf
+*.svg
